@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Suryansh Chourasia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryansh777777&label=Profile%20views&color=0e75b6&style=flat" alt="suryansh777777" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryansh777777" alt="suryansh777777" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Javascript Projects**
+- 👯 I’m looking to collaborate on **MERN Projects**
 
 - 🤝 I’m looking for help with **Development**
 
-- 💬 Ask me about **react,gsap,javascript,canvas,locomotivejs**
+- 💬 Ask me about **react,nodejs,gsap,javascript,canvas,locomotivejs**
 
 - 📫 How to reach me **suryanshchourasia12@gmail.com**
 
